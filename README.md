@@ -11,6 +11,7 @@ I enjoy writing SQL scripts and queries, messing around with data, and learning 
 - 👯 I’m looking to collaborate on anything related to SQL and Relational Database Design or beginner Python projects.
 - ⚡ Fun fact: I take healthy walk breaks.
 - 💬 Feel free to ask me about anything!
+- 📊 [My Dashboards](https://public.tableau.com/app/profile/tomer.cohen22)
 
 <!--
 **tomercoh/tomercoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
