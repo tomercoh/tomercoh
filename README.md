@@ -9,7 +9,7 @@ I enjoy writing SQL scripts and queries, messing around with data, and learning 
 - 🔭 I’m currently working on my portfolio. 
 - 🌱 I’m currently learning Python to enhance my data cleaning and analysis skills. 
 - 👯 I’m looking to collaborate on anything related to SQL and Relational Database Design or beginner Python projects.
-- ⚡ Fun fact: I take healthy walk breaks.
+- ⚡ Fun fact: I indulge in healthy walk breaks.
 - 💬 Feel free to ask me about anything!
 
 - 📊 [My Dashboards](https://public.tableau.com/app/profile/tomer.cohen22)
