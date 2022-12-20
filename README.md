@@ -4,7 +4,7 @@ My name is Tomer, a recent college graduate👨‍🎓!
 
 My major is in Information Technology and Systems. 
 
-I enjoy writing SQL scripts and queries, messing around with data, and learning new languages and technologies. 
+I enjoy working with SQL, designing systems and ETL solutions, and learning new technologies. 
 
 - 🔭 I’m currently working on my portfolio. 
 - 🌱 I’m currently learning Python to enhance my data cleaning and analysis skills. 
