@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Tomer, and I am currently a senior studying at a University set to graduate in December 2022 👨‍🎓. 
+My name is Tomer, a recent college graduate👨‍🎓! 
 
 My major is in Information Technology and Systems. 
 
