@@ -1,18 +1,8 @@
 # Hi there 👋
 
-My name is Tomer, a recent college graduate👨‍🎓! 
+College Graduate: major is in Information Technology and Systems. 
 
-My major is in Information Technology and Systems. 
 
-I enjoy working with SQL, designing systems and ETL solutions, and learning new technologies. 
-
-- 🔭 I’m currently working on my portfolio. 
-- 🌱 I’m currently learning Python to enhance my data cleaning and analysis skills. 
-- 👯 I’m looking to collaborate on anything related to SQL and Relational Database Design or beginner Python projects.
-- ⚡ Fun fact: I indulge in healthy walk breaks.
-- 💬 Feel free to ask me about anything!
-
-- 📊 [My Dashboards](https://public.tableau.com/app/profile/tomer.cohen22)
 
 <!--
 **tomercoh/tomercoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
